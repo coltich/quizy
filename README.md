@@ -1,0 +1,2 @@
+# quizy
+Project for school
